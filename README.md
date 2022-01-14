@@ -1,0 +1,2 @@
+# genshinautomator
+ genshinimpact auto-script
